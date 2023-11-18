@@ -8,7 +8,7 @@ Este projeto tem o objetivo de demonstrar dados estatísticos dos Jogadores da N
 | :label: Tecnologias | python, powerbi
 
 
-![Dashboard](https://github.com/Arilson-X/nba_player_stats/blob/main/NBA%20Players%20Dashboard/dashboard.png)
+![Dashboard](https://github.com/Arilson-X/nba_player_stats/blob/main/NBA%20Players%20Dashboard/dashboard.png#vitrinedev)
 
 <p>
   Este projeto é uma dashboard criada no <a href="https://powerbi.microsoft.com/pt-br/">Power BI </a>, desenvolvida em forma de Painel. Afim de
