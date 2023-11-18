@@ -15,4 +15,5 @@
   Também neste projeto foi utilizado da linguagem Python para obter dados adicionais por Scraping. Esses dados foram coletados diretamente do site da NBA. E para isso foram utilizadas as
   bibliotecas selenium e urllib, responsáveis por coletar os dados das páginas do site da NBA. Também foi utilizados o Pandas para estruturar e exportar esses dados para arquivos.
 </p>
+
 ![Dashboard](https://github.com/Arilson-X/nba_player_stats/blob/main/NBA%20Players%20Dashboard/dashboard.png)
