@@ -1,0 +1,533 @@
+Player,Team,Number,Position,Height,Weight,Last Attended,Country,Image
+preciousachiuwa,TOR,5.0,F,6-8,243 lbs,Memphis,Nigeria,https://cdn.nba.com/headshots/nba/latest/260x190/1630173.png
+stevenadams,MEM,4.0,C,6-11,265 lbs,Pittsburgh,New Zealand,https://cdn.nba.com/headshots/nba/latest/260x190/203500.png
+bamadebayo,MIA,13.0,C-F,6-9,255 lbs,Kentucky,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1628389.png
+ochaiagbaji,UTA,30.0,G,6-5,215 lbs,Kansas,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630534.png
+santialdama,MEM,7.0,F-C,7-0,215 lbs,Loyola-Maryland,Spain,https://cdn.nba.com/headshots/nba/latest/260x190/1630583.png
+nickeilalexander-walker,MIN,9.0,G,6-5,205 lbs,Virginia Tech,Canada,https://cdn.nba.com/headshots/nba/latest/260x190/1629638.png
+graysonallen,PHX,8.0,G,6-4,198 lbs,Duke,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1628960.png
+jarrettallen,CLE,31.0,C,6-9,243 lbs,Texas,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1628386.png
+josealvarado,NOP,15.0,G,6-0,179 lbs,Georgia Tech,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630631.png
+kyleanderson,MIN,1.0,F-G,6-9,230 lbs,UCLA,USA,https://cdn.nba.com/headshots/nba/latest/260x190/203937.png
+giannisantetokounmpo,MIL,34.0,F,6-11,243 lbs,Filathlitikos,Greece,https://cdn.nba.com/headshots/nba/latest/260x190/203507.png
+thanasisantetokounmpo,MIL,43.0,F,6-7,219 lbs,Panathinaikos,Greece,https://cdn.nba.com/headshots/nba/latest/260x190/203648.png
+coleanthony,ORL,50.0,G,6-2,185 lbs,North Carolina,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630175.png
+oganunoby,TOR,3.0,F,6-7,240 lbs,Indiana,United Kingdom,https://cdn.nba.com/headshots/nba/latest/260x190/1628384.png
+ryanarcidiacono,NYK,51.0,G,6-3,195 lbs,Villanova,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1627853.png
+deniavdija,WAS,8.0,F,6-9,210 lbs,Maccabi Tel Aviv,Israel,https://cdn.nba.com/headshots/nba/latest/260x190/1630166.png
+deandreayton,POR,2.0,C,7-0,247 lbs,Arizona,Bahamas,https://cdn.nba.com/headshots/nba/latest/260x190/1629028.png
+udokaazubuike,PHX,27.0,C-F,6-11,270 lbs,Kansas,Nigeria,https://cdn.nba.com/headshots/nba/latest/260x190/1628962.png
+marvinbagley iii,DET,35.0,F,6-10,235 lbs,Duke,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1628963.png
+amaribailey,CHA,10.0,G,6-3,185 lbs,UCLA,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1641735.png
+patrickbaldwin jr.,WAS,7.0,F,6-9,220 lbs,Wisconsin-Milwaukee,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631116.png
+lameloball,CHA,1.0,G,6-7,180 lbs,,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630163.png
+lonzoball,CHI,2.0,G,6-6,190 lbs,UCLA,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1628366.png
+mobamba,PHI,7.0,C,7-0,231 lbs,Texas,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1628964.png
+paolobanchero,ORL,5.0,F,6-10,250 lbs,Duke,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631094.png
+desmondbane,MEM,22.0,G,6-5,215 lbs,TCU,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630217.png
+dalanobanton,BOS,45.0,F,6-8,204 lbs,Nebraska,Canada,https://cdn.nba.com/headshots/nba/latest/260x190/1630625.png
+dominickbarlow,SAS,26.0,F,6-9,215 lbs,,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631230.png
+harrisonbarnes,SAC,40.0,F,6-8,225 lbs,North Carolina,USA,https://cdn.nba.com/headshots/nba/latest/260x190/203084.png
+scottiebarnes,TOR,4.0,F,6-7,237 lbs,Florida State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630567.png
+rjbarrett,NYK,9.0,F-G,6-6,214 lbs,Duke,Canada,https://cdn.nba.com/headshots/nba/latest/260x190/1629628.png
+charlesbassey,SAS,28.0,C-F,6-10,230 lbs,Western Kentucky,Nigeria,https://cdn.nba.com/headshots/nba/latest/260x190/1629646.png
+emonibates,CLE,21.0,F,6-8,170 lbs,Eastern Michigan,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1641734.png
+keitabates-diop,PHX,21.0,F,6-8,229 lbs,Ohio State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1628966.png
+nicolasbatum,PHI,40.0,G-F,6-8,230 lbs,Le Mans,France,https://cdn.nba.com/headshots/nba/latest/260x190/201587.png
+bradleybeal,PHX,3.0,G,6-4,207 lbs,Florida,USA,https://cdn.nba.com/headshots/nba/latest/260x190/203078.png
+malikbeasley,MIL,5.0,G,6-4,187 lbs,Florida State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1627736.png
+marjonbeauchamp,MIL,3.0,F,6-7,199 lbs,NBA G League Ignite,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630699.png
+charlesbediako,SAS,27.0,C,7-0,225 lbs,Alabama,Canada,https://cdn.nba.com/headshots/nba/latest/260x190/1641777.png
+davisbertans,OKC,9.0,F,6-10,225 lbs,Baskonia,Latvia,https://cdn.nba.com/headshots/nba/latest/260x190/202722.png
+patrickbeverley,PHI,22.0,G,6-2,180 lbs,Arkansas,USA,https://cdn.nba.com/headshots/nba/latest/260x190/201976.png
+saddiqbey,ATL,41.0,G-F,6-7,215 lbs,Villanova,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630180.png
+gogabitadze,ORL,35.0,C-F,6-10,250 lbs,Mega Basket,Georgia,https://cdn.nba.com/headshots/nba/latest/260x190/1629048.png
+onuralpbitim,CHI,17.0,F,6-6,215 lbs,,Turkey,https://cdn.nba.com/headshots/nba/latest/260x190/1641931.png
+bismackbiyombo,MEM,18.0,C,6-8,255 lbs,Baloncesto Fuenlabrada,DRC,https://cdn.nba.com/headshots/nba/latest/260x190/202687.png
+anthonyblack,ORL,0.0,G,6-7,200 lbs,Arkansas,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1641710.png
+leakyblack,CHA,12.0,F,6-6,209 lbs,North Carolina,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1641778.png
+bogdanbogdanovic,ATL,13.0,G,6-5,225 lbs,Fenerbahce,Serbia,https://cdn.nba.com/headshots/nba/latest/260x190/203992.png
+bojanbogdanovic,DET,44.0,F,6-7,226 lbs,Fenerbahce,Croatia,https://cdn.nba.com/headshots/nba/latest/260x190/202711.png
+bolbol,PHX,11.0,C-F,7-3,220 lbs,Oregon,Sudan,https://cdn.nba.com/headshots/nba/latest/260x190/1629626.png
+marquesbolden,MIL,12.0,C,6-10,249 lbs,Duke,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629716.png
+devinbooker,PHX,1.0,G,6-6,206 lbs,Kentucky,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1626164.png
+brandonboston jr.,LAC,4.0,G,6-6,188 lbs,Kentucky,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630527.png
+chrisboucher,TOR,25.0,F-C,6-9,200 lbs,Oregon,Saint Lucia,https://cdn.nba.com/headshots/nba/latest/260x190/1628449.png
+jamesbouknight,CHA,2.0,G,6-4,190 lbs,Connecticut,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630547.png
+jamareebouyea,POR,21.0,G,6-2,180 lbs,San Francisco,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631123.png
+malakibranham,SAS,22.0,F,6-4,180 lbs,Ohio State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631103.png
+christianbraun,DEN,0.0,G,6-6,220 lbs,Kansas,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631128.png
+mikalbridges,BKN,1.0,G-F,6-6,209 lbs,Villanova,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1628969.png
+milesbridges,CHA,0.0,F,6-7,225 lbs,Michigan State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1628970.png
+oshaebrissett,BOS,12.0,F-G,6-7,210 lbs,Syracuse,Canada,https://cdn.nba.com/headshots/nba/latest/260x190/1629052.png
+malcolmbrogdon,POR,11.0,G,6-4,229 lbs,Virginia,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1627763.png
+armonibrooks,BKN,13.0,G,6-3,195 lbs,Houston,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629717.png
+dillonbrooks,HOU,9.0,G-F,6-6,225 lbs,Oregon,Canada,https://cdn.nba.com/headshots/nba/latest/260x190/1628415.png
+brucebrown,IND,11.0,G-F,6-4,202 lbs,Miami,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1628971.png
+jaylenbrown,BOS,7.0,G-F,6-6,223 lbs,California,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1627759.png
+kendallbrown,IND,10.0,G,6-7,205 lbs,Baylor,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631112.png
+kobebrown,LAC,21.0,F,6-7,250 lbs,Missouri,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1641738.png
+mosesbrown,POR,10.0,C,7-2,258 lbs,UCLA,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629650.png
+gregbrown iii,DAL,36.0,F,6-7,206 lbs,Texas,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630535.png
+charliebrown jr.,NYK,16.0,G,6-6,199 lbs,St. Joseph's (PA),USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629718.png
+troybrown jr.,MIN,23.0,G-F,6-7,215 lbs,Oregon,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1628972.png
+jalenbrunson,NYK,11.0,G,6-2,190 lbs,Villanova,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1628973.png
+thomasbryant,MIA,31.0,C-F,6-10,248 lbs,Indiana,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1628418.png
+kobebufkin,ATL,4.0,G,6-5,195 lbs,Michigan,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1641723.png
+reggiebullock jr.,HOU,25.0,G-F,6-6,205 lbs,North Carolina,USA,https://cdn.nba.com/headshots/nba/latest/260x190/203493.png
+alecburks,DET,14.0,G,6-5,214 lbs,Colorado,USA,https://cdn.nba.com/headshots/nba/latest/260x190/202692.png
+jaredbutler,WAS,4.0,G,6-3,193 lbs,Baylor,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630215.png
+jimmybutler,MIA,22.0,F,6-7,230 lbs,Marquette,USA,https://cdn.nba.com/headshots/nba/latest/260x190/202710.png
+johnbutler jr.,WAS,19.0,F,7-0,190 lbs,Florida State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631219.png
+jamalcain,MIA,8.0,F,6-6,191 lbs,Oakland,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631288.png
+kentaviouscaldwell-pope,DEN,5.0,G,6-5,204 lbs,Georgia,USA,https://cdn.nba.com/headshots/nba/latest/260x190/203484.png
+toumanicamara,POR,33.0,F,6-7,226 lbs,Dayton,Belgium,https://cdn.nba.com/headshots/nba/latest/260x190/1641739.png
+vlatkocancar,DEN,31.0,F,6-8,236 lbs,San Pablo Burgos,Slovenia,https://cdn.nba.com/headshots/nba/latest/260x190/1628427.png
+clintcapela,ATL,15.0,C,6-10,256 lbs,Elan Chalon,Switzerland,https://cdn.nba.com/headshots/nba/latest/260x190/203991.png
+jevoncarter,CHI,5.0,G,6-1,200 lbs,West Virginia,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1628975.png
+wendellcarter jr.,ORL,34.0,C-F,6-10,270 lbs,Duke,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1628976.png
+alexcaruso,CHI,6.0,G,6-5,186 lbs,Texas A&M,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1627936.png
+colincastleton,LAL,14.0,C,6-10,250 lbs,Florida,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630658.png
+malcolmcazalon,DET,20.0,G,6-6,185 lbs,Mega Basket,France,https://cdn.nba.com/headshots/nba/latest/260x190/1630608.png
+julianchampagnie,SAS,30.0,F,6-7,217 lbs,St. John's,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630577.png
+maxchristie,LAL,10.0,G,6-5,190 lbs,Michigan State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631108.png
+joshchristopher,UTA,13.0,G,6-4,215 lbs,Arizona State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630528.png
+sidycissoko,SAS,25.0,G,6-6,200 lbs,NBA G League Ignite,France,https://cdn.nba.com/headshots/nba/latest/260x190/1631321.png
+jaylenclark,MIN,0.0,G,6-4,205 lbs,UCLA,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1641740.png
+brandonclarke,MEM,15.0,F,6-8,215 lbs,Gonzaga,Canada,https://cdn.nba.com/headshots/nba/latest/260x190/1629634.png
+jordanclarkson,UTA,0.0,G,6-3,194 lbs,Missouri,USA,https://cdn.nba.com/headshots/nba/latest/260x190/203903.png
+nicclaxton,BKN,33.0,C,6-11,215 lbs,Georgia,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629651.png
+noahclowney,BKN,21.0,F,6-9,210 lbs,Alabama,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1641730.png
+amircoffey,LAC,7.0,G-F,6-7,210 lbs,Minnesota,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629599.png
+johncollins,UTA,20.0,F-C,6-9,226 lbs,Wake Forest,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1628381.png
+zachcollins,SAS,23.0,F-C,6-11,250 lbs,Gonzaga,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1628380.png
+mikeconley,MIN,10.0,G,6-0,175 lbs,Ohio State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/201144.png
+patconnaughton,MIL,24.0,G,6-5,209 lbs,Notre Dame,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1626192.png
+bilalcoulibaly,WAS,0.0,G,6-8,195 lbs,Metropolitans 92,France,https://cdn.nba.com/headshots/nba/latest/260x190/1641731.png
+rickycouncil iv,PHI,16.0,G,6-6,207 lbs,Arkansas,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1641741.png
+robertcovington,PHI,33.0,F,6-7,209 lbs,Tennessee State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/203496.png
+torreycraig,CHI,13.0,F,6-5,221 lbs,South Carolina Upstate,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1628470.png
+jaecrowder,MIL,99.0,F,6-6,235 lbs,Marquette,USA,https://cdn.nba.com/headshots/nba/latest/260x190/203109.png
+cadecunningham,DET,2.0,G,6-6,220 lbs,Oklahoma State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630595.png
+sethcurry,DAL,30.0,G,6-1,185 lbs,Duke,USA,https://cdn.nba.com/headshots/nba/latest/260x190/203552.png
+stephencurry,GSW,30.0,G,6-2,185 lbs,Davidson,USA,https://cdn.nba.com/headshots/nba/latest/260x190/201939.png
+dysondaniels,NOP,11.0,G,6-7,199 lbs,NBA G League Ignite,Australia,https://cdn.nba.com/headshots/nba/latest/260x190/1630700.png
+anthonydavis,LAL,3.0,F-C,6-10,253 lbs,Kentucky,USA,https://cdn.nba.com/headshots/nba/latest/260x190/203076.png
+johnnydavis,WAS,1.0,G,6-4,195 lbs,Wisconsin,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631098.png
+jddavison,BOS,20.0,G,6-1,195 lbs,Alabama,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631120.png
+demarderozan,CHI,11.0,G-F,6-6,220 lbs,Southern California,USA,https://cdn.nba.com/headshots/nba/latest/260x190/201942.png
+dexterdennis,DAL,38.0,G,6-5,210 lbs,Texas A&M,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1641926.png
+dontedivincenzo,NYK,0.0,G,6-4,203 lbs,Villanova,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1628978.png
+moussadiabate,LAC,25.0,F,6-9,210 lbs,Michigan,France,https://cdn.nba.com/headshots/nba/latest/260x190/1631217.png
+gradeydick,TOR,1.0,G,6-6,200 lbs,Kansas,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1641711.png
+ousmanedieng,OKC,13.0,F,6-9,185 lbs,New Zealand Breakers,France,https://cdn.nba.com/headshots/nba/latest/260x190/1631172.png
+spencerdinwiddie,BKN,26.0,G,6-5,215 lbs,Colorado,USA,https://cdn.nba.com/headshots/nba/latest/260x190/203915.png
+lukadoncic,DAL,77.0,F-G,6-7,230 lbs,Real Madrid,Slovenia,https://cdn.nba.com/headshots/nba/latest/260x190/1629029.png
+luguentzdort,OKC,5.0,G,6-4,220 lbs,Arizona State,Canada,https://cdn.nba.com/headshots/nba/latest/260x190/1629652.png
+ayodosunmu,CHI,12.0,G,6-5,200 lbs,Illinois,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630245.png
+andredrummond,CHI,3.0,C,6-11,279 lbs,Connecticut,USA,https://cdn.nba.com/headshots/nba/latest/260x190/203083.png
+chrisduarte,SAC,3.0,G,6-5,190 lbs,Oregon,Dominican Republic,https://cdn.nba.com/headshots/nba/latest/260x190/1630537.png
+krisdunn,UTA,11.0,G,6-3,205 lbs,Providence,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1627739.png
+kevindurant,PHX,35.0,F,6-11,240 lbs,Texas,USA,https://cdn.nba.com/headshots/nba/latest/260x190/201142.png
+jalenduren,DET,0.0,C,6-10,250 lbs,Memphis,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631105.png
+tarieason,HOU,17.0,F,6-8,215 lbs,Louisiana State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631106.png
+anthonyedwards,MIN,5.0,G,6-4,225 lbs,Georgia,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630162.png
+kessleredwards,SAC,17.0,F,6-7,203 lbs,Pepperdine,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630556.png
+keonellis,SAC,23.0,G,6-3,175 lbs,Alabama,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631165.png
+joelembiid,PHI,21.0,C-F,7-0,280 lbs,Kansas,Cameroon,https://cdn.nba.com/headshots/nba/latest/260x190/203954.png
+dreweubanks,PHX,14.0,F-C,6-10,245 lbs,Oregon State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629234.png
+danteexum,DAL,0.0,G,6-5,214 lbs,Australian Institute of Sport,Australia,https://cdn.nba.com/headshots/nba/latest/260x190/203957.png
+brunofernando,ATL,24.0,F-C,6-9,240 lbs,Maryland,Angola,https://cdn.nba.com/headshots/nba/latest/260x190/1628981.png
+dorianfinney-smith,BKN,28.0,F,6-7,220 lbs,Florida,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1627827.png
+malachiflynn,TOR,22.0,G,6-1,185 lbs,San Diego State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630201.png
+simonefontecchio,UTA,16.0,F,6-7,209 lbs,Baskonia,Italy,https://cdn.nba.com/headshots/nba/latest/260x190/1631323.png
+jordanford,SAC,31.0,G,6-1,175 lbs,St. Mary's College,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630259.png
+trentforrest,ATL,2.0,G,6-4,210 lbs,Florida State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630235.png
+evanfournier,NYK,13.0,G-F,6-6,205 lbs,Poitiers Basket 86,France,https://cdn.nba.com/headshots/nba/latest/260x190/203095.png
+de'aaronfox,SAC,5.0,G,6-3,185 lbs,Kentucky,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1628368.png
+javonfreeman-liberty,TOR,0.0,G,6-3,190 lbs,DePaul,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631241.png
+alexfudge,LAL,17.0,F,6-8,200 lbs,Florida,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1641788.png
+markellefultz,ORL,20.0,G,6-4,209 lbs,Washington,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1628365.png
+danielgafford,WAS,21.0,F-C,6-10,234 lbs,Arkansas,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629655.png
+danilogallinari,WAS,88.0,F,6-10,236 lbs,Olimpia Milano,Italy,https://cdn.nba.com/headshots/nba/latest/260x190/201568.png
+dariusgarland,CLE,10.0,G,6-1,192 lbs,Vanderbilt,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629636.png
+usmangaruba,GSW,12.0,F,6-8,229 lbs,Real Madrid,Spain,https://cdn.nba.com/headshots/nba/latest/260x190/1630586.png
+lukagarza,MIN,55.0,C,6-10,243 lbs,Iowa,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630568.png
+kaisergates,,,F,6-7,225 lbs,Xavier,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629232.png
+keyontegeorge,UTA,3.0,G,6-4,185 lbs,Baylor,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1641718.png
+paulgeorge,LAC,13.0,F,6-8,220 lbs,Fresno State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/202331.png
+joshgiddey,OKC,3.0,G,6-8,216 lbs,NBA Global Academy,Australia,https://cdn.nba.com/headshots/nba/latest/260x190/1630581.png
+harrygiles iii,BKN,14.0,F-C,6-10,240 lbs,Duke,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1628385.png
+shaigilgeous-alexander,OKC,2.0,G,6-6,195 lbs,Kentucky,Canada,https://cdn.nba.com/headshots/nba/latest/260x190/1628983.png
+anthonygill,WAS,16.0,F,6-8,230 lbs,Virginia,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630264.png
+collingillespie,DEN,21.0,G,6-1,195 lbs,Villanova,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631221.png
+jacobgilyard,MEM,0.0,G,5-8,160 lbs,Richmond,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631367.png
+rudygobert,MIN,27.0,C,7-1,258 lbs,Cholet,France,https://cdn.nba.com/headshots/nba/latest/260x190/203497.png
+jordangoodwin,PHX,0.0,G,6-4,200 lbs,St. Louis,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630692.png
+aarongordon,DEN,50.0,F,6-8,235 lbs,Arizona,USA,https://cdn.nba.com/headshots/nba/latest/260x190/203932.png
+ericgordon,PHX,23.0,G,6-3,215 lbs,Indiana,USA,https://cdn.nba.com/headshots/nba/latest/260x190/201569.png
+devonte'graham,SAS,4.0,G,6-1,195 lbs,Kansas,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1628984.png
+jeramigrant,POR,9.0,F,6-7,210 lbs,Syracuse,USA,https://cdn.nba.com/headshots/nba/latest/260x190/203924.png
+ajgreen,MIL,20.0,G,6-4,190 lbs,Northern Iowa,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631260.png
+dannygreen,,,G,6-6,215 lbs,North Carolina,USA,https://cdn.nba.com/headshots/nba/latest/260x190/201980.png
+draymondgreen,GSW,23.0,F,6-6,230 lbs,Michigan State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/203110.png
+jalengreen,HOU,4.0,G,6-4,186 lbs,NBA G League Ignite,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630224.png
+jeffgreen,HOU,32.0,F,6-8,235 lbs,Georgetown,USA,https://cdn.nba.com/headshots/nba/latest/260x190/201145.png
+joshgreen,DAL,8.0,G,6-5,200 lbs,Arizona,Australia,https://cdn.nba.com/headshots/nba/latest/260x190/1630182.png
+ajgriffin,ATL,14.0,F,6-6,220 lbs,Duke,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631100.png
+quentingrimes,NYK,6.0,G,6-5,210 lbs,Houston,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629656.png
+mouhamedgueye,ATL,18.0,F,6-10,210 lbs,Washington State,Senegal,https://cdn.nba.com/headshots/nba/latest/260x190/1631243.png
+ruihachimura,LAL,28.0,F,6-8,230 lbs,Gonzaga,Japan,https://cdn.nba.com/headshots/nba/latest/260x190/1629060.png
+tyresehaliburton,IND,0.0,G,6-5,185 lbs,Iowa State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630169.png
+r.j.hampton,MIA,4.0,G,6-4,175 lbs,New Zealand Breakers,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630181.png
+timhardaway jr.,DAL,10.0,G-F,6-5,205 lbs,Michigan,USA,https://cdn.nba.com/headshots/nba/latest/260x190/203501.png
+jamesharden,LAC,1.0,G,6-5,220 lbs,Arizona State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/201935.png
+jadenhardy,DAL,1.0,G,6-3,198 lbs,NBA G League Ignite,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630702.png
+ronharper jr.,TOR,8.0,F,6-4,233 lbs,Rutgers,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631199.png
+garyharris,ORL,14.0,G,6-4,210 lbs,Michigan State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/203914.png
+joeharris,DET,31.0,G-F,6-6,220 lbs,Virginia,USA,https://cdn.nba.com/headshots/nba/latest/260x190/203925.png
+kevonharris,ORL,8.0,G,6-5,216 lbs,Stephen F. Austin,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630284.png
+tobiasharris,PHI,12.0,F,6-8,226 lbs,Tennessee,USA,https://cdn.nba.com/headshots/nba/latest/260x190/202699.png
+joshhart,NYK,3.0,G,6-4,215 lbs,Villanova,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1628404.png
+isaiahhartenstein,NYK,55.0,C-F,7-0,250 lbs,Zalgiris,Germany,https://cdn.nba.com/headshots/nba/latest/260x190/1628392.png
+samhauser,BOS,30.0,F,6-7,217 lbs,Virginia,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630573.png
+jordanhawkins,NOP,24.0,G,6-5,190 lbs,Connecticut,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1641722.png
+jaxsonhayes,LAL,11.0,C-F,7-0,220 lbs,Texas,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629637.png
+killianhayes,DET,7.0,G,6-5,195 lbs,Ratiopharm Ulm,France,https://cdn.nba.com/headshots/nba/latest/260x190/1630165.png
+gordonhayward,CHA,20.0,F,6-7,225 lbs,Butler,USA,https://cdn.nba.com/headshots/nba/latest/260x190/202330.png
+scoothenderson,POR,0.0,G,6-3,202 lbs,NBA G League Ignite,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630703.png
+taylorhendricks,UTA,0.0,F,6-9,215 lbs,Central Florida,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1641707.png
+tylerherro,MIA,14.0,G,6-5,195 lbs,Kentucky,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629639.png
+buddyhield,IND,7.0,G,6-4,220 lbs,Oklahoma,Bahamas,https://cdn.nba.com/headshots/nba/latest/260x190/1627741.png
+haywoodhighsmith,MIA,24.0,F,6-5,220 lbs,Wheeling Jesuit,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629312.png
+natehinton,HOU,14.0,G-F,6-5,210 lbs,Houston,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630207.png
+d'moihodge,LAL,55.0,G,6-3,188 lbs,Missouri,British Virgin Islands,https://cdn.nba.com/headshots/nba/latest/260x190/1641793.png
+aaronholiday,HOU,0.0,G,6-0,185 lbs,UCLA,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1628988.png
+jrueholiday,BOS,4.0,G,6-4,205 lbs,UCLA,USA,https://cdn.nba.com/headshots/nba/latest/260x190/201950.png
+justinholiday,DEN,9.0,F-G,6-6,180 lbs,Washington,USA,https://cdn.nba.com/headshots/nba/latest/260x190/203200.png
+richaunholmes,DAL,20.0,F,6-9,235 lbs,Bowling Green,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1626158.png
+chetholmgren,OKC,7.0,C-F,7-1,195 lbs,Gonzaga,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631096.png
+jalenhood-schifino,LAL,0.0,G,6-5,215 lbs,Indiana,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1641720.png
+alhorford,BOS,42.0,C-F,6-9,240 lbs,Florida,Dominican Republic,https://cdn.nba.com/headshots/nba/latest/260x190/201143.png
+talenhorton-tucker,UTA,5.0,G,6-4,234 lbs,Iowa State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629659.png
+danuelhouse jr.,PHI,25.0,F-G,6-6,220 lbs,Texas A&M,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1627863.png
+calebhoustan,ORL,2.0,G,6-8,205 lbs,Michigan,Canada,https://cdn.nba.com/headshots/nba/latest/260x190/1631216.png
+jetthoward,ORL,13.0,G,6-6,215 lbs,Michigan,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1641724.png
+kevinhuerter,SAC,9.0,G-F,6-7,198 lbs,Maryland,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1628989.png
+jayhuff,DEN,30.0,C,7-1,240 lbs,Virginia,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630643.png
+de'andrehunter,ATL,12.0,F-G,6-8,221 lbs,Virginia,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629631.png
+boneshyland,LAC,5.0,G,6-2,169 lbs,Virginia Commonwealth,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630538.png
+joeingles,ORL,7.0,F-G,6-9,220 lbs,Maccabi Tel Aviv,Australia,https://cdn.nba.com/headshots/nba/latest/260x190/204060.png
+brandoningram,NOP,14.0,F,6-8,190 lbs,Duke,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1627742.png
+kyrieirving,DAL,11.0,G,6-2,195 lbs,Duke,Australia,https://cdn.nba.com/headshots/nba/latest/260x190/202681.png
+jonathanisaac,ORL,1.0,F,6-10,230 lbs,Florida State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1628371.png
+jadenivey,DET,23.0,G,6-4,195 lbs,Purdue,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631093.png
+ggjackson,MEM,45.0,F,6-9,210 lbs,South Carolina,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1641713.png
+isaiahjackson,IND,22.0,F,6-9,205 lbs,Kentucky,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630543.png
+reggiejackson,DEN,7.0,G,6-2,208 lbs,Boston College,USA,https://cdn.nba.com/headshots/nba/latest/260x190/202704.png
+andrejackson jr.,MIL,44.0,G,6-6,209 lbs,Connecticut,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1641748.png
+jarenjackson jr.,MEM,13.0,F-C,6-10,242 lbs,Michigan State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1628991.png
+traycejackson-davis,GSW,32.0,F,6-9,245 lbs,Indiana,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631218.png
+lebronjames,LAL,23.0,F,6-9,250 lbs,St. Vincent-St. Mary HS (OH),USA,https://cdn.nba.com/headshots/nba/latest/260x190/2544.png
+jaimejaquez jr.,MIA,11.0,G,6-6,225 lbs,UCLA,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631170.png
+daquanjeffries,NYK,8.0,G-F,6-5,222 lbs,Tulsa,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629610.png
+tyjerome,CLE,2.0,G-F,6-5,195 lbs,Virginia,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629660.png
+isaiahjoe,OKC,11.0,G,6-3,165 lbs,Arkansas,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630198.png
+cameronjohnson,BKN,2.0,F,6-8,210 lbs,North Carolina,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629661.png
+jalenjohnson,ATL,1.0,F,6-8,219 lbs,Duke,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630552.png
+keldonjohnson,SAS,3.0,F-G,6-5,220 lbs,Kentucky,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629640.png
+keonjohnson,BKN,45.0,G,6-5,185 lbs,Tennessee,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630553.png
+keyontaejohnson,OKC,18.0,F,6-4,230 lbs,Kansas State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1641749.png
+nikolajokic,DEN,15.0,C,6-11,284 lbs,Mega Basket,Serbia,https://cdn.nba.com/headshots/nba/latest/260x190/203999.png
+colbyjones,SAC,20.0,G,6-6,207 lbs,Xavier,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1641732.png
+damianjones,CLE,30.0,C,6-10,245 lbs,Vanderbilt,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1627745.png
+herbertjones,NOP,5.0,F,6-7,206 lbs,Alabama,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630529.png
+trejones,SAS,33.0,G,6-1,185 lbs,Duke,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630200.png
+tyusjones,WAS,5.0,G,6-1,196 lbs,Duke,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1626145.png
+derrickjones jr.,DAL,55.0,F,6-6,210 lbs,UNLV,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1627884.png
+deandrejordan,DEN,6.0,C,6-11,265 lbs,Texas A&M,USA,https://cdn.nba.com/headshots/nba/latest/260x190/201599.png
+coryjoseph,GSW,1.0,G,6-2,200 lbs,Texas,Canada,https://cdn.nba.com/headshots/nba/latest/260x190/202709.png
+nikolajovic,MIA,5.0,F,6-10,205 lbs,,Serbia,https://cdn.nba.com/headshots/nba/latest/260x190/1631107.png
+johnnyjuzang,UTA,33.0,G,6-5,209 lbs,UCLA,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630548.png
+lukekennard,MEM,10.0,G,6-5,206 lbs,Duke,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1628379.png
+walkerkessler,UTA,24.0,C,7-0,245 lbs,Auburn,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631117.png
+braxtonkey,DEN,11.0,F,6-8,225 lbs,Virginia,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630296.png
+coreykispert,WAS,24.0,F,6-6,224 lbs,Gonzaga,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630557.png
+maxikleber,DAL,42.0,F,6-10,240 lbs,Bayern Munich,Germany,https://cdn.nba.com/headshots/nba/latest/260x190/1628467.png
+nathanknight,BOS,1.0,F-C,6-8,253 lbs,William & Mary,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630233.png
+kevinknox ii,DET,24.0,F,6-7,215 lbs,Kentucky,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1628995.png
+christiankoloko,TOR,35.0,C,7-0,230 lbs,Arizona,Cameroon,https://cdn.nba.com/headshots/nba/latest/260x190/1631132.png
+johnkonchar,MEM,46.0,G,6-5,210 lbs,Indiana-Purdue Fort Wayne,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629723.png
+furkankorkmaz,PHI,30.0,G-F,6-7,202 lbs,Anadolu Efes,Turkey,https://cdn.nba.com/headshots/nba/latest/260x190/1627788.png
+lukekornet,BOS,40.0,C-F,7-1,250 lbs,Vanderbilt,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1628436.png
+jonathankuminga,GSW,0.0,F,6-7,225 lbs,NBA G League Ignite,DRC,https://cdn.nba.com/headshots/nba/latest/260x190/1630228.png
+kylekuzma,WAS,33.0,F,6-9,221 lbs,Utah,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1628398.png
+jakelaravia,MEM,3.0,F,6-7,235 lbs,Wake Forest,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631222.png
+zachlavine,CHI,8.0,G,6-5,200 lbs,UCLA,USA,https://cdn.nba.com/headshots/nba/latest/260x190/203897.png
+jocklandale,HOU,2.0,C,6-11,255 lbs,St. Mary's,Australia,https://cdn.nba.com/headshots/nba/latest/260x190/1629111.png
+a.j.lawson,DAL,9.0,G,6-6,179 lbs,South Carolina,Canada,https://cdn.nba.com/headshots/nba/latest/260x190/1630639.png
+carislevert,CLE,3.0,G,6-6,205 lbs,Michigan,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1627747.png
+damionlee,PHX,10.0,G-F,6-6,210 lbs,Drexel,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1627814.png
+sabenlee,PHX,38.0,G,6-2,183 lbs,Vanderbilt,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630240.png
+alexlen,SAC,25.0,C,7-0,250 lbs,Maryland,Ukraine,https://cdn.nba.com/headshots/nba/latest/260x190/203458.png
+kawhileonard,LAC,2.0,F,6-7,225 lbs,San Diego State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/202695.png
+justinlewis,CHI,34.0,F,6-7,245 lbs,Marquette,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631171.png
+maxwelllewis,LAL,21.0,F,6-7,195 lbs,Pepperdine,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1641721.png
+kiralewis jr.,NOP,13.0,G,6-1,170 lbs,Alabama,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630184.png
+e.j.liddell,NOP,32.0,F,6-6,240 lbs,Ohio State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630604.png
+damianlillard,MIL,0.0,G,6-2,195 lbs,Weber State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/203081.png
+nassirlittle,PHX,25.0,F-G,6-6,220 lbs,North Carolina,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629642.png
+derecklively ii,DAL,2.0,C,7-1,230 lbs,Duke,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1641726.png
+isaiahlivers,DET,12.0,F,6-6,232 lbs,Michigan,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630587.png
+chrislivingston,MIL,7.0,F,6-6,220 lbs,Kentucky,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1641753.png
+kennethlofton jr.,MEM,6.0,F,6-6,275 lbs,Louisiana Tech,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631254.png
+kevonlooney,GSW,5.0,F,6-9,222 lbs,UCLA,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1626172.png
+brooklopez,MIL,11.0,C,7-1,282 lbs,Stanford,USA,https://cdn.nba.com/headshots/nba/latest/260x190/201572.png
+robinlopez,MIL,42.0,C,7-1,281 lbs,Stanford,USA,https://cdn.nba.com/headshots/nba/latest/260x190/201577.png
+kevinlove,MIA,42.0,F-C,6-8,251 lbs,UCLA,USA,https://cdn.nba.com/headshots/nba/latest/260x190/201567.png
+kylelowry,MIA,7.0,G,6-0,196 lbs,Villanova,USA,https://cdn.nba.com/headshots/nba/latest/260x190/200768.png
+sethlundy,ATL,3.0,G-F,6-4,220 lbs,Penn State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1641754.png
+treylyles,SAC,41.0,F,6-9,234 lbs,Kentucky,Canada,https://cdn.nba.com/headshots/nba/latest/260x190/1626168.png
+theomaledon,CHA,9.0,G,6-4,175 lbs,Asvel,France,https://cdn.nba.com/headshots/nba/latest/260x190/1630177.png
+sandromamukelashvili,SAS,54.0,F-C,6-9,240 lbs,Seton Hall,Georgia,https://cdn.nba.com/headshots/nba/latest/260x190/1630572.png
+terancemann,LAC,14.0,G-F,6-5,215 lbs,Florida State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629611.png
+tremann,OKC,23.0,G,6-3,178 lbs,Florida,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630544.png
+bobanmarjanovic,HOU,51.0,C,7-4,290 lbs,Crvena zvezda,Serbia,https://cdn.nba.com/headshots/nba/latest/260x190/1626246.png
+laurimarkkanen,UTA,23.0,F-C,7-0,240 lbs,Arizona,Finland,https://cdn.nba.com/headshots/nba/latest/260x190/1628374.png
+najimarshall,NOP,8.0,F,6-6,220 lbs,Xavier,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630230.png
+calebmartin,MIA,16.0,F,6-5,205 lbs,Nevada,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1628997.png
+codymartin,CHA,11.0,F,6-6,205 lbs,Nevada,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1628998.png
+kjmartin,PHI,1.0,F,6-6,215 lbs,IMG Academy (FL),USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630231.png
+garrisonmathews,ATL,25.0,G,6-6,215 lbs,Lipscomb,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629726.png
+bennedictmathurin,IND,0.0,G-F,6-5,210 lbs,Arizona,Canada,https://cdn.nba.com/headshots/nba/latest/260x190/1631097.png
+wesleymatthews,ATL,32.0,G,6-5,220 lbs,Marquette,USA,https://cdn.nba.com/headshots/nba/latest/260x190/202083.png
+tyresemaxey,PHI,0.0,G,6-2,200 lbs,Kentucky,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630178.png
+skylarmays,POR,5.0,G,6-3,205 lbs,Louisiana State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630219.png
+milesmcbride,NYK,2.0,G,6-1,195 lbs,West Virginia,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630540.png
+cjmccollum,NOP,3.0,G,6-3,190 lbs,Lehigh,USA,https://cdn.nba.com/headshots/nba/latest/260x190/203468.png
+t.j.mcconnell,IND,9.0,G,6-1,190 lbs,Arizona,USA,https://cdn.nba.com/headshots/nba/latest/260x190/204456.png
+jadenmcdaniels,MIN,3.0,F,6-9,185 lbs,Washington,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630183.png
+jalenmcdaniels,TOR,2.0,F-C,6-9,190 lbs,San Diego State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629667.png
+dougmcdermott,SAS,17.0,F,6-6,225 lbs,Creighton,USA,https://cdn.nba.com/headshots/nba/latest/260x190/203926.png
+javalemcgee,SAC,0.0,C-F,7-0,270 lbs,Nevada,USA,https://cdn.nba.com/headshots/nba/latest/260x190/201580.png
+brycemcgowens,CHA,7.0,G,6-6,175 lbs,Nebraska,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631121.png
+jordanmclaughlin,MIN,6.0,G,6-0,185 lbs,Southern California,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629162.png
+de'anthonymelton,PHI,8.0,G,6-3,200 lbs,Southern California,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629001.png
+sammerrill,CLE,5.0,G,6-4,205 lbs,Utah State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630241.png
+chimeziemetu,PHX,4.0,F-C,6-10,225 lbs,Southern California,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629002.png
+vasilijemicic,OKC,29.0,G,6-3,188 lbs,Serbia,Serbia,https://cdn.nba.com/headshots/nba/latest/260x190/203995.png
+khrismiddleton,MIL,22.0,F,6-7,222 lbs,Texas A&M,USA,https://cdn.nba.com/headshots/nba/latest/260x190/203114.png
+brandonmiller,CHA,24.0,F,6-7,200 lbs,Alabama,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1641706.png
+jordanmiller,LAC,11.0,G,6-5,194 lbs,Miami,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1641757.png
+leonardmiller,MIN,33.0,F,6-10,210 lbs,NBA G League Ignite,Canada,https://cdn.nba.com/headshots/nba/latest/260x190/1631159.png
+pattymills,ATL,8.0,G,6-2,180 lbs,St. Mary's,Australia,https://cdn.nba.com/headshots/nba/latest/260x190/201988.png
+shakemilton,MIN,18.0,G-F,6-5,205 lbs,Southern Methodist,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629003.png
+justinminaya,POR,24.0,F,6-5,205 lbs,Providence,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631303.png
+joshminott,MIN,8.0,F,6-8,205 lbs,Memphis,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631169.png
+davionmitchell,SAC,15.0,G,6-0,202 lbs,Baylor,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630558.png
+donovanmitchell,CLE,45.0,G,6-3,215 lbs,Louisville,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1628378.png
+evanmobley,CLE,4.0,C,6-11,215 lbs,Southern California,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630596.png
+isaiahmobley,CLE,15.0,F,6-8,238 lbs,Southern California,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630600.png
+malikmonk,SAC,0.0,G,6-3,200 lbs,Kentucky,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1628370.png
+mosesmoody,GSW,4.0,G,6-5,211 lbs,Arkansas,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630541.png
+wendellmoore jr.,MIN,7.0,G,6-5,215 lbs,Duke,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631111.png
+jamorant,MEM,12.0,G,6-2,174 lbs,Murray State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629630.png
+markieffmorris,DAL,88.0,F,6-9,245 lbs,Kansas,USA,https://cdn.nba.com/headshots/nba/latest/260x190/202693.png
+montemorris,DET,5.0,G,6-2,183 lbs,Iowa State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1628420.png
+marcusmorris sr.,PHI,5.0,F,6-8,218 lbs,Kansas,USA,https://cdn.nba.com/headshots/nba/latest/260x190/202694.png
+treymurphy iii,NOP,25.0,F,6-8,206 lbs,Virginia,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630530.png
+dejountemurray,ATL,5.0,G,6-5,180 lbs,Washington,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1627749.png
+jamalmurray,DEN,27.0,G,6-4,215 lbs,Kentucky,Canada,https://cdn.nba.com/headshots/nba/latest/260x190/1627750.png
+keeganmurray,SAC,13.0,F,6-8,225 lbs,Iowa,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631099.png
+krismurray,POR,8.0,F,6-8,210 lbs,Iowa,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631200.png
+mikemuscala,WAS,35.0,F-C,6-10,240 lbs,Bucknell,USA,https://cdn.nba.com/headshots/nba/latest/260x190/203488.png
+svimykhailiuk,BOS,50.0,G-F,6-7,205 lbs,Kansas,Ukraine,https://cdn.nba.com/headshots/nba/latest/260x190/1629004.png
+larrynance jr.,NOP,22.0,F-C,6-8,245 lbs,Wyoming,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1626204.png
+andrewnembhard,IND,2.0,G-F,6-4,191 lbs,Gonzaga,Canada,https://cdn.nba.com/headshots/nba/latest/260x190/1629614.png
+aaronnesmith,IND,23.0,G-F,6-6,215 lbs,Vanderbilt,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630174.png
+georgesniang,CLE,20.0,F,6-7,230 lbs,Iowa State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1627777.png
+daishennix,MIN,12.0,G,6-3,226 lbs,NBA G League Ignite,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630227.png
+zekennaji,DEN,22.0,F-C,6-9,240 lbs,Arizona,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630192.png
+milesnorris,ATL,0.0,F,6-7,220 lbs,California-Santa Barbara,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1641936.png
+markquisnowell,TOR,24.0,G,5-7,160 lbs,Kansas State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1641806.png
+frankntilikina,CHA,44.0,G,6-4,200 lbs,Strasbourg IG,France,https://cdn.nba.com/headshots/nba/latest/260x190/1628373.png
+jusufnurkic,PHX,20.0,C,7-0,290 lbs,Cedevita,Bosnia and Herzegovina,https://cdn.nba.com/headshots/nba/latest/260x190/203994.png
+jordannwora,IND,13.0,F,6-8,225 lbs,Louisville,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629670.png
+royceo'neale,BKN,0.0,F,6-6,226 lbs,Baylor,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1626220.png
+chumaokeke,ORL,3.0,F,6-7,229 lbs,Auburn,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629643.png
+joshokogie,PHX,2.0,G,6-4,213 lbs,Georgia Tech,Nigeria,https://cdn.nba.com/headshots/nba/latest/260x190/1629006.png
+onyekaokongwu,ATL,17.0,F-C,6-10,240 lbs,Southern California,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630168.png
+isaacokoro,CLE,35.0,F-G,6-5,225 lbs,Auburn,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630171.png
+victoroladipo,HOU,3.0,G,6-3,213 lbs,Indiana,USA,https://cdn.nba.com/headshots/nba/latest/260x190/203506.png
+kellyolynyk,UTA,41.0,F-C,6-11,240 lbs,Gonzaga,Canada,https://cdn.nba.com/headshots/nba/latest/260x190/203482.png
+eugeneomoruyi,WAS,97.0,F,6-6,235 lbs,Oregon,Nigeria,https://cdn.nba.com/headshots/nba/latest/260x190/1630647.png
+cediosman,SAS,16.0,F,6-7,230 lbs,Anadolu Efes,Turkey,https://cdn.nba.com/headshots/nba/latest/260x190/1626224.png
+kellyoubre jr.,PHI,9.0,F-G,6-7,203 lbs,Kansas,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1626162.png
+chrispaul,GSW,3.0,G,6-0,175 lbs,Wake Forest,USA,https://cdn.nba.com/headshots/nba/latest/260x190/101108.png
+cameronpayne,MIL,15.0,G,6-3,183 lbs,Murray State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1626166.png
+garypayton ii,GSW,0.0,G,6-2,195 lbs,Oregon State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1627780.png
+filippetrusev,SAC,33.0,C,6-11,225 lbs,Gonzaga,Serbia,https://cdn.nba.com/headshots/nba/latest/260x190/1630196.png
+julianphillips,CHI,15.0,F,6-8,198 lbs,Tennessee,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1641763.png
+jalenpickett,DEN,24.0,G,6-2,202 lbs,Penn State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629618.png
+masonplumlee,LAC,44.0,F-C,6-10,254 lbs,Duke,USA,https://cdn.nba.com/headshots/nba/latest/260x190/203486.png
+brandinpodziemski,GSW,2.0,G,6-4,205 lbs,Santa Clara,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1641764.png
+jakobpoeltl,TOR,19.0,C,7-0,260 lbs,Utah,Austria,https://cdn.nba.com/headshots/nba/latest/260x190/1627751.png
+aleksejpokusevski,OKC,17.0,F,7-0,210 lbs,Olympiacos,Serbia,https://cdn.nba.com/headshots/nba/latest/260x190/1630197.png
+jordanpoole,WAS,13.0,G,6-4,194 lbs,Michigan,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629673.png
+craigporter,CLE,9.0,G,6-1,180 lbs,Wichita State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1641854.png
+michaelporter jr.,DEN,1.0,F,6-10,218 lbs,Missouri,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629008.png
+ottoporter jr.,TOR,32.0,F,6-8,230 lbs,Georgetown,USA,https://cdn.nba.com/headshots/nba/latest/260x190/203490.png
+bobbyportis,MIL,9.0,F,6-10,250 lbs,Arkansas,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1626171.png
+kristapsporzingis,BOS,8.0,F-C,7-2,240 lbs,Cajasol Sevilla,Latvia,https://cdn.nba.com/headshots/nba/latest/260x190/204001.png
+micahpotter,UTA,25.0,C,6-9,248 lbs,Wisconsin,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630695.png
+dwightpowell,DAL,7.0,F-C,6-10,240 lbs,Stanford,Canada,https://cdn.nba.com/headshots/nba/latest/260x190/203939.png
+normanpowell,LAC,24.0,G,6-4,215 lbs,UCLA,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1626181.png
+joshuaprimo,LAC,12.0,G,6-4,189 lbs,Alabama,Canada,https://cdn.nba.com/headshots/nba/latest/260x190/1630563.png
+taureanprince,LAL,12.0,F,6-6,218 lbs,Baylor,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1627752.png
+paytonpritchard,BOS,11.0,G,6-1,195 lbs,Oregon,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630202.png
+olivier-maxenceprosper,DAL,18.0,F,6-7,230 lbs,Marquette,Canada,https://cdn.nba.com/headshots/nba/latest/260x190/1641765.png
+trevelinqueen,ORL,12.0,G,6-5,190 lbs,New Mexico State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630243.png
+neemiasqueta,BOS,88.0,C,7-0,248 lbs,Utah State,Portugal,https://cdn.nba.com/headshots/nba/latest/260x190/1629674.png
+immanuelquickley,NYK,5.0,G,6-2,190 lbs,Kentucky,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630193.png
+lesterquinones,GSW,25.0,G,6-4,208 lbs,Memphis,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631311.png
+juliusrandle,NYK,30.0,F-C,6-8,250 lbs,Kentucky,USA,https://cdn.nba.com/headshots/nba/latest/260x190/203944.png
+duopreath,POR,26.0,C,6-9,245 lbs,Louisiana State,South Sudan,https://cdn.nba.com/headshots/nba/latest/260x190/1641871.png
+austinreaves,LAL,15.0,G,6-5,197 lbs,Oklahoma,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630559.png
+camreddish,LAL,5.0,F-G,6-7,217 lbs,Duke,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629629.png
+paulreed,PHI,44.0,F,6-9,210 lbs,DePaul,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630194.png
+nazreid,MIN,11.0,C-F,6-9,264 lbs,Louisiana State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629675.png
+jaredrhoden,DET,8.0,G,6-5,210 lbs,Seton Hall,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631197.png
+sir'jabaririce,SAS,11.0,G,6-4,180 lbs,Texas,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1641811.png
+nickrichards,CHA,4.0,C,7-0,245 lbs,Kentucky,Jamaica,https://cdn.nba.com/headshots/nba/latest/260x190/1630208.png
+joshrichardson,MIA,0.0,G,6-5,200 lbs,Tennessee,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1626196.png
+duncanrobinson,MIA,55.0,F,6-7,215 lbs,Michigan,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629130.png
+jeromerobinson,GSW,18.0,G,6-5,190 lbs,Boston College,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629010.png
+mitchellrobinson,NYK,23.0,C-F,7-0,240 lbs,Western Kentucky,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629011.png
+orlandorobinson,MIA,25.0,C,6-10,235 lbs,Fresno State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631115.png
+jeremiahrobinson-earl,NOP,50.0,F,6-8,240 lbs,Villanova,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630526.png
+davidroddy,MEM,21.0,F,6-4,255 lbs,Colorado State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631223.png
+ryanrollins,WAS,9.0,G,6-3,180 lbs,Toledo,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631157.png
+derrickrose,MEM,23.0,G,6-3,200 lbs,Memphis,USA,https://cdn.nba.com/headshots/nba/latest/260x190/201565.png
+terryrozier,CHA,3.0,G,6-1,190 lbs,Louisville,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1626179.png
+rickyrubio,CLE,13.0,G,6-2,190 lbs,FC Barcelona,Spain,https://cdn.nba.com/headshots/nba/latest/260x190/201937.png
+rayanrupert,POR,72.0,G-F,6-6,185 lbs,New Zealand Breakers,France,https://cdn.nba.com/headshots/nba/latest/260x190/1641712.png
+d'angelorussell,LAL,1.0,G,6-3,193 lbs,Ohio State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1626156.png
+mattryan,NOP,37.0,F,6-6,215 lbs,Tennessee-Chattanooga,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630346.png
+domantassabonis,SAC,10.0,F-C,6-10,240 lbs,Gonzaga,Lithuania,https://cdn.nba.com/headshots/nba/latest/260x190/1627734.png
+lukasamanic,UTA,19.0,F,6-10,227 lbs,Union Olimpija,Croatia,https://cdn.nba.com/headshots/nba/latest/260x190/1629677.png
+jermainesamuels jr.,HOU,0.0,F,6-6,230 lbs,Villanova,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631257.png
+adamasanogo,CHI,21.0,F,6-9,245 lbs,Connecticut,Mali,https://cdn.nba.com/headshots/nba/latest/260x190/1641766.png
+guisantos,GSW,15.0,F,6-6,185 lbs,,Brazil,https://cdn.nba.com/headshots/nba/latest/260x190/1630611.png
+dariosaric,GSW,20.0,F-C,6-10,225 lbs,Anadolu Efes,Croatia,https://cdn.nba.com/headshots/nba/latest/260x190/203967.png
+oliviersarr,OKC,30.0,C,6-10,240 lbs,Kentucky,France,https://cdn.nba.com/headshots/nba/latest/260x190/1630846.png
+marcussasser,DET,25.0,G,6-2,195 lbs,Houston,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631204.png
+admiralschofield,ORL,25.0,F,6-5,241 lbs,Tennessee,United Kingdom,https://cdn.nba.com/headshots/nba/latest/260x190/1629678.png
+dennisschroder,TOR,17.0,G,6-1,175 lbs,Braunschweig,Germany,https://cdn.nba.com/headshots/nba/latest/260x190/203471.png
+dereonseabron,NOP,0.0,G,6-5,180 lbs,North Carolina State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631220.png
+alperensengun,HOU,28.0,C,6-11,243 lbs,Besiktas,Turkey,https://cdn.nba.com/headshots/nba/latest/260x190/1630578.png
+bricesensabaugh,UTA,8.0,F,6-5,235 lbs,Ohio State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1641729.png
+collinsexton,UTA,2.0,G,6-3,190 lbs,Alabama,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629012.png
+landryshamet,WAS,20.0,G,6-4,190 lbs,Wichita State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629013.png
+day'ronsharpe,BKN,20.0,C,6-9,265 lbs,North Carolina,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630549.png
+shaedonsharpe,POR,17.0,G,6-5,205 lbs,Kentucky,Canada,https://cdn.nba.com/headshots/nba/latest/260x190/1631101.png
+bensheppard,IND,26.0,G,6-6,190 lbs,Belmont,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1641767.png
+pascalsiakam,TOR,43.0,F,6-8,245 lbs,New Mexico State,Cameroon,https://cdn.nba.com/headshots/nba/latest/260x190/1627783.png
+bensimmons,BKN,10.0,G-F,6-10,240 lbs,Louisiana State,Australia,https://cdn.nba.com/headshots/nba/latest/260x190/1627732.png
+anferneesimons,POR,1.0,G,6-3,193 lbs,Edgewater HS (FL),USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629014.png
+jerichosims,NYK,45.0,C,6-10,250 lbs,Texas,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630579.png
+jalenslawson,SAC,18.0,F,6-7,215 lbs,Furman,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1641771.png
+javontesmart,PHI,39.0,G,6-4,205 lbs,Louisiana State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630606.png
+marcussmart,MEM,36.0,G,6-3,220 lbs,Oklahoma State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/203935.png
+drusmith,MIA,9.0,G,6-2,203 lbs,Missouri,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630696.png
+ishsmith,CHA,14.0,G,6-0,175 lbs,Wake Forest,USA,https://cdn.nba.com/headshots/nba/latest/260x190/202397.png
+jalensmith,IND,25.0,F-C,6-9,215 lbs,Maryland,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630188.png
+terquavionsmith,PHI,23.0,G,6-4,160 lbs,North Carolina State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631173.png
+dennissmith jr.,BKN,4.0,G,6-3,205 lbs,North Carolina State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1628372.png
+jabarismith jr.,HOU,10.0,F,6-11,220 lbs,Auburn,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631095.png
+nicksmith jr.,CHA,8.0,G,6-2,185 lbs,Arkansas,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1641733.png
+jeremysochan,SAS,10.0,F,6-8,230 lbs,Baylor,Poland,https://cdn.nba.com/headshots/nba/latest/260x190/1631110.png
+jadenspringer,PHI,11.0,G,6-4,202 lbs,Tennessee,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630531.png
+lamarstevens,BOS,77.0,F,6-7,230 lbs,Penn State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630205.png
+isaiahstewart,DET,28.0,F-C,6-8,250 lbs,Washington,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630191.png
+julianstrawther,DEN,3.0,G,6-6,205 lbs,Gonzaga,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631124.png
+maxstrus,CLE,1.0,G-F,6-5,215 lbs,DePaul,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629622.png
+jalensuggs,ORL,4.0,G,6-5,205 lbs,Gonzaga,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630591.png
+coleswider,MIA,21.0,F,6-8,220 lbs,Syracuse,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631306.png
+jae'seantate,HOU,8.0,F,6-4,230 lbs,Ohio State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630256.png
+jaysontatum,BOS,0.0,F-G,6-8,210 lbs,Duke,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1628369.png
+terrytaylor,CHI,32.0,F,6-4,230 lbs,Austin Peay,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630678.png
+garretttemple,TOR,14.0,G-F,6-5,195 lbs,Louisiana State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/202066.png
+dalenterry,CHI,25.0,F,6-7,195 lbs,Arizona,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631207.png
+danieltheis,IND,27.0,F-C,6-8,245 lbs,Brose Bamberg,Germany,https://cdn.nba.com/headshots/nba/latest/260x190/1628464.png
+camthomas,BKN,24.0,G,6-3,210 lbs,Louisiana State,Japan,https://cdn.nba.com/headshots/nba/latest/260x190/1630560.png
+amenthompson,HOU,1.0,G-F,6-7,200 lbs,Overtime Elite,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1641708.png
+ausarthompson,DET,9.0,G-F,6-6,205 lbs,Overtime Elite,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1641709.png
+klaythompson,GSW,11.0,G,6-6,220 lbs,Washington State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/202691.png
+tristanthompson,CLE,12.0,C-F,6-9,254 lbs,Texas-Austin,Canada,https://cdn.nba.com/headshots/nba/latest/260x190/202684.png
+jtthor,CHA,21.0,F,6-9,203 lbs,Auburn,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630550.png
+matissethybulle,POR,4.0,G-F,6-5,201 lbs,Washington,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629680.png
+xaviertillman,MEM,2.0,F,6-7,245 lbs,Michigan State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630214.png
+jacobtoppin,NYK,0.0,F,6-8,200 lbs,Kentucky,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631210.png
+obitoppin,IND,1.0,F,6-9,220 lbs,Dayton,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630167.png
+karl-anthonytowns,MIN,32.0,C-F,7-0,248 lbs,Kentucky,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1626157.png
+garytrent jr.,TOR,33.0,G-F,6-5,204 lbs,Duke,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629018.png
+oscartshiebwe,IND,44.0,F-C,6-8,255 lbs,Kentucky,DRC,https://cdn.nba.com/headshots/nba/latest/260x190/1631131.png
+p.j.tucker,LAC,17.0,F,6-5,245 lbs,Texas,USA,https://cdn.nba.com/headshots/nba/latest/260x190/200782.png
+mylesturner,IND,33.0,C-F,6-11,250 lbs,Texas,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1626167.png
+huntertyson,DEN,4.0,F,6-8,215 lbs,Clemson,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1641816.png
+stanleyumude,DET,17.0,G,6-6,210 lbs,Arkansas,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630649.png
+jonasvalanciunas,NOP,17.0,C,6-11,265 lbs,Lietuvos rytas Vilnius,Lithuania,https://cdn.nba.com/headshots/nba/latest/260x190/202685.png
+fredvanvleet,HOU,5.0,G,6-0,197 lbs,Wichita State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1627832.png
+jarredvanderbilt,LAL,2.0,F,6-8,214 lbs,Kentucky,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629020.png
+devinvassell,SAS,24.0,G-F,6-5,200 lbs,Florida State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630170.png
+sashavezenkov,SAC,7.0,F,6-8,225 lbs,"Barcelona, Spain",Bulgaria,https://cdn.nba.com/headshots/nba/latest/260x190/1628426.png
+gabevincent,LAL,7.0,G,6-2,200 lbs,California-Santa Barbara,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629216.png
+nikolavucevic,CHI,9.0,C,6-10,260 lbs,Southern California,Montenegro,https://cdn.nba.com/headshots/nba/latest/260x190/202696.png
+deanwade,CLE,32.0,F-C,6-9,228 lbs,Kansas State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629731.png
+franzwagner,ORL,22.0,F,6-10,220 lbs,Michigan,Germany,https://cdn.nba.com/headshots/nba/latest/260x190/1630532.png
+moritzwagner,ORL,21.0,F-C,6-11,245 lbs,Michigan,Germany,https://cdn.nba.com/headshots/nba/latest/260x190/1629021.png
+ishwainright,POR,23.0,F,6-5,250 lbs,Baylor,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630688.png
+jabariwalker,POR,34.0,F,6-7,227 lbs,Colorado,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631133.png
+jaracewalker,IND,5.0,F,6-7,235 lbs,Houston,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1641716.png
+lonniewalker iv,BKN,8.0,G-F,6-4,204 lbs,Miami,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629022.png
+casonwallace,OKC,22.0,G,6-3,195 lbs,Kentucky,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1641717.png
+jordanwalsh,BOS,27.0,G,6-6,205 lbs,Arkansas,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1641775.png
+p.j.washington,CHA,25.0,F,6-7,230 lbs,Kentucky,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629023.png
+duanewashington jr.,NYK,4.0,G,6-2,197 lbs,Ohio State,Germany,https://cdn.nba.com/headshots/nba/latest/260x190/1630613.png
+tytywashington jr.,MIL,23.0,G,6-3,195 lbs,Kentucky,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631102.png
+yutawatanabe,PHX,18.0,G-F,6-9,215 lbs,George Washington,Japan,https://cdn.nba.com/headshots/nba/latest/260x190/1629139.png
+lindywaters iii,OKC,12.0,F,6-6,210 lbs,Oklahoma State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630322.png
+trendonwatford,BKN,9.0,F,6-8,237 lbs,Louisiana State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630570.png
+peytonwatson,DEN,8.0,G,6-7,200 lbs,UCLA,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631212.png
+victorwembanyama,SAS,1.0,F-C,7-4,210 lbs,Metropolitans 92,France,https://cdn.nba.com/headshots/nba/latest/260x190/1641705.png
+blakewesley,SAS,14.0,G,6-3,185 lbs,Notre Dame,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631104.png
+russellwestbrook,LAC,0.0,G,6-4,200 lbs,UCLA,USA,https://cdn.nba.com/headshots/nba/latest/260x190/201566.png
+cobywhite,CHI,0.0,G,6-5,195 lbs,North Carolina,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629632.png
+derrickwhite,BOS,9.0,G,6-4,190 lbs,Colorado,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1628401.png
+dariqwhitehead,BKN,0.0,F,6-6,220 lbs,Duke,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1641727.png
+camwhitmore,HOU,7.0,F,6-7,230 lbs,Villanova,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1641715.png
+aaronwiggins,OKC,21.0,G,6-5,190 lbs,Maryland,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630598.png
+andrewwiggins,GSW,22.0,F,6-7,197 lbs,Kansas,Canada,https://cdn.nba.com/headshots/nba/latest/260x190/203952.png
+lindellwigginton,MIL,28.0,G,6-1,189 lbs,Iowa State,Canada,https://cdn.nba.com/headshots/nba/latest/260x190/1629623.png
+grantwilliams,DAL,3.0,F,6-6,236 lbs,Tennessee,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629684.png
+jalenwilliams,OKC,8.0,G-F,6-5,211 lbs,Santa Clara,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631114.png
+jaylinwilliams,OKC,6.0,F,6-9,240 lbs,Arkansas,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631119.png
+kenrichwilliams,OKC,34.0,G-F,6-6,210 lbs,TCU,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629026.png
+markwilliams,CHA,5.0,C,7-0,240 lbs,Duke,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631109.png
+natewilliams,HOU,19.0,G,6-5,205 lbs,Buffalo,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631466.png
+patrickwilliams,CHI,44.0,F,6-7,215 lbs,Florida State,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630172.png
+ziairewilliams,MEM,8.0,F,6-9,185 lbs,Stanford,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630533.png
+robertwilliams iii,POR,35.0,C-F,6-9,249 lbs,Texas A&M,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629057.png
+vincewilliams jr.,MEM,5.0,G,6-4,205 lbs,Virginia Commonwealth,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631246.png
+zionwilliamson,NOP,1.0,F,6-6,284 lbs,Duke,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629627.png
+jalenwilson,BKN,22.0,F,6-6,220 lbs,Kansas,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630592.png
+dylanwindler,NYK,20.0,G-F,6-7,196 lbs,Belmont,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629685.png
+jameswiseman,DET,13.0,C,6-11,240 lbs,Memphis,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1630164.png
+isaiahwong,IND,21.0,G,6-3,185 lbs,Miami,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1631209.png
+christianwood,LAL,35.0,F,6-8,214 lbs,UNLV,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1626174.png
+delonwright,WAS,55.0,G,6-5,185 lbs,Utah,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1626153.png
+thaddeusyoung,TOR,21.0,F,6-8,225 lbs,Georgia Tech,USA,https://cdn.nba.com/headshots/nba/latest/260x190/201152.png
+traeyoung,ATL,11.0,G,6-1,164 lbs,Oklahoma,USA,https://cdn.nba.com/headshots/nba/latest/260x190/1629027.png
+omeryurtseven,UTA,77.0,C,6-11,275 lbs,Georgetown,Turkey,https://cdn.nba.com/headshots/nba/latest/260x190/1630209.png
+codyzeller,NOP,40.0,F-C,6-11,240 lbs,Indiana,USA,https://cdn.nba.com/headshots/nba/latest/260x190/203469.png
+ivicazubac,LAC,40.0,C,7-0,240 lbs,Mega Basket,Croatia,https://cdn.nba.com/headshots/nba/latest/260x190/1627826.png
