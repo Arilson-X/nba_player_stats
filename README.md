@@ -1,4 +1,5 @@
 # NBA Player Stats
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" witdth="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" witdth="40" height="40"/>
 <p>
   Este projeto é uma dashboard criada no <a href="https://powerbi.microsoft.com/pt-br/">Power BI </a>, desenvolvida em forma de Painel. Afim de
   demonstrar dados estatísticos dos jogadores da NBA (Liga Americana de Basquete). Com essa dashboard é possível você acompanhar os dados médios individuais
