@@ -1,5 +1,15 @@
 # NBA Player Stats
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" witdth="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" witdth="40" height="40"/>
+
+Este projeto tem o objetivo de demonstrar dados estatísticos dos Jogadores da NBA na temporada de 2023-2024 através de uam dashboard do Power Bi
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **NBA Player Stats**
+| :label: Tecnologias | python, powerbi
+
+
+![Dashboard](https://github.com/Arilson-X/nba_player_stats/blob/main/NBA%20Players%20Dashboard/dashboard.png)
+
 <p>
   Este projeto é uma dashboard criada no <a href="https://powerbi.microsoft.com/pt-br/">Power BI </a>, desenvolvida em forma de Painel. Afim de
   demonstrar dados estatísticos dos jogadores da NBA (Liga Americana de Basquete). Com essa dashboard é possível você acompanhar os dados médios individuais
@@ -17,4 +27,3 @@
   bibliotecas selenium e urllib, responsáveis por coletar os dados das páginas do site da NBA. Também foi utilizados o Pandas para estruturar e exportar esses dados para arquivos.
 </p>
 
-![Dashboard](https://github.com/Arilson-X/nba_player_stats/blob/main/NBA%20Players%20Dashboard/dashboard.png)
